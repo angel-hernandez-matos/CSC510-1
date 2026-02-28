@@ -1,0 +1,201 @@
+date,merchant,description,amount,category
+2026-01-01,Safeway,Weekly groceries,82.45,Groceries
+2026-01-02,Starbucks,Coffee and breakfast sandwich,9.75,Dining
+2026-01-03,Shell,Gas station fuel,51.20,Transportation
+2026-01-04,Netflix,Monthly subscription,15.99,Entertainment
+2026-01-05,Amazon,Home office supplies,34.89,Shopping
+2026-01-06,PUD,Electric utility bill,128.40,Utilities
+2026-01-07,Trader Joe's,Groceries and snacks,67.10,Groceries
+2026-01-08,Chipotle,Burrito bowl,12.95,Dining
+2026-01-09,Lyft,Ride to airport,46.80,Transportation
+2026-01-10,Disney+,Streaming subscription,9.99,Entertainment
+2026-01-11,Home Depot,Home repair tools,74.50,Home Services
+2026-01-12,City Water,Water utility bill,59.20,Utilities
+2026-01-13,Whole Foods,Organic groceries,94.30,Groceries
+2026-01-14,Local Bistro,Dinner with friends,88.00,Dining
+2026-01-15,Shell,Gas refill,48.10,Transportation
+2026-01-16,Spotify,Music subscription,10.99,Entertainment
+2026-01-17,Target,Clothing and home goods,112.40,Shopping
+2026-01-18,Gas & Power Co,Gas utility bill,89.70,Utilities
+2026-01-19,Fancy Steakhouse,Anniversary dinner,540.00,Dining
+2026-01-20,Seafood Grill,Seafood dinner,62.40,Dining
+2026-01-21,Costco,Bulk groceries,142.80,Groceries
+2026-01-22,Starbucks,Latte and pastry,8.90,Dining
+2026-01-23,Chevron,Gas station fuel,52.60,Transportation
+2026-01-24,Hulu,Monthly subscription,14.99,Entertainment
+2026-01-25,Amazon,Electronics accessory,22.99,Shopping
+2026-01-26,PUD,Electric utility bill,131.10,Utilities
+2026-01-27,Safeway,Weekly groceries,87.20,Groceries
+2026-01-28,Panera Bread,Lunch combo,14.80,Dining
+2026-01-29,Uber,Ride downtown,21.40,Transportation
+2026-01-30,Paramount+,Streaming subscription,11.99,Entertainment
+2026-01-31,Best Buy,Computer peripherals,64.99,Shopping
+2026-02-01,City Water,Water utility bill,60.40,Utilities
+2026-02-02,Trader Joe's,Weekly groceries,71.20,Groceries
+2026-02-03,Chipotle,Burrito and drink,13.50,Dining
+2026-02-04,Shell,Gas refill,49.90,Transportation
+2026-02-05,Netflix,Monthly subscription,15.99,Entertainment
+2026-02-06,Amazon,Pet supplies,28.40,Pets
+2026-02-07,PUD,Electric utility bill,129.80,Utilities
+2026-02-08,Safeway,Groceries and snacks,78.60,Groceries
+2026-02-09,Local Bistro,Lunch with coworker,22.30,Dining
+2026-02-10,Lyft,Ride to meeting,18.70,Transportation
+2026-02-11,Disney+,Streaming subscription,9.99,Entertainment
+2026-02-12,Home Depot,Garden tools,48.90,Home Services
+2026-02-13,City Water,Water utility bill,62.00,Utilities
+2026-02-14,Whole Foods,Organic groceries,102.40,Groceries
+2026-02-15,Olive Garden,Family dinner,64.20,Dining
+2026-02-16,Chevron,Gas station fuel,53.10,Transportation
+2026-02-17,Spotify,Music subscription,10.99,Entertainment
+2026-02-18,Target,Home décor,38.20,Shopping
+2026-02-19,Gas & Power Co,Gas utility bill,91.40,Utilities
+2026-02-20,IHOP,Weekend breakfast,28.60,Dining
+2026-02-21,Costco,Bulk groceries,148.30,Groceries
+2026-02-22,Starbucks,Cold brew and sandwich,12.50,Dining
+2026-02-23,Shell,Gas refill,50.70,Transportation
+2026-02-24,Hulu,Monthly subscription,14.99,Entertainment
+2026-02-25,Amazon,Kitchen tools,29.99,Shopping
+2026-02-26,PUD,Electric utility bill,130.90,Utilities
+2026-02-27,Safeway,Weekly groceries,89.50,Groceries
+2026-02-28,Chipotle,Lunch combo,13.80,Dining
+2026-03-01,Uber,Ride home,17.40,Transportation
+2026-03-02,Netflix,Monthly subscription,15.99,Entertainment
+2026-03-03,Target,Home essentials,45.60,Shopping
+2026-03-04,City Water,Water utility bill,61.20,Utilities
+2026-03-05,Trader Joe's,Weekly groceries,70.10,Groceries
+2026-03-06,Local Bistro,Lunch special,18.75,Dining
+2026-03-07,Shell,Gas station fuel,53.40,Transportation
+2026-03-08,Spotify,Music subscription,10.99,Entertainment
+2026-03-09,Amazon,Office supplies,26.75,Shopping
+2026-03-10,Gas & Power Co,Gas utility bill,92.50,Utilities
+2026-03-11,Costco,Bulk groceries,152.20,Groceries
+2026-03-12,Starbucks,Coffee and croissant,8.75,Dining
+2026-03-13,Lyft,Ride to office,19.80,Transportation
+2026-03-14,Disney+,Streaming subscription,9.99,Entertainment
+2026-03-15,Home Depot,Garden supplies,65.00,Home Services
+2026-03-16,PUD,Electric utility bill,129.75,Utilities
+2026-03-17,Safeway,Groceries,91.20,Groceries
+2026-03-18,Chipotle,Burrito bowl,12.95,Dining
+2026-03-19,Shell,Gas refill,49.30,Transportation
+2026-03-20,Netflix,Monthly subscription,15.99,Entertainment
+2026-03-21,Amazon,Pet food,34.40,Pets
+2026-03-22,City Water,Water utility bill,60.10,Utilities
+2026-03-23,Trader Joe's,Weekly groceries,67.80,Groceries
+2026-03-24,Local Bistro,Dinner with friends,84.50,Dining
+2026-03-25,Uber,Ride to airport,44.20,Transportation
+2026-03-26,Spotify,Music subscription,10.99,Entertainment
+2026-03-27,Target,Home goods,58.30,Shopping
+2026-03-28,Gas & Power Co,Gas utility bill,89.90,Utilities
+2026-03-29,Safeway,Groceries and snacks,76.40,Groceries
+2026-03-30,Starbucks,Latte and bagel,10.40,Dining
+2026-03-31,Shell,Gas station fuel,51.60,Transportation
+2026-04-01,Netflix,Monthly subscription,15.99,Entertainment
+2026-04-02,Amazon,Office supplies,26.75,Shopping
+2026-04-03,PUD,Electric utility bill,131.20,Utilities
+2026-04-04,Trader Joe's,Weekly groceries,72.30,Groceries
+2026-04-05,Chipotle,Lunch combo,13.80,Dining
+2026-04-06,Lyft,Ride home,17.40,Transportation
+2026-04-07,Disney+,Streaming subscription,9.99,Entertainment
+2026-04-08,Home Depot,Hardware items,48.90,Home Services
+2026-04-09,City Water,Water utility bill,62.00,Utilities
+2026-04-10,Safeway,Groceries,89.50,Groceries
+2026-04-11,Local Bistro,Lunch with coworker,22.30,Dining
+2026-04-12,Shell,Gas refill,46.80,Transportation
+2026-04-13,Spotify,Music subscription,10.99,Entertainment
+2026-04-14,Amazon,Home décor,34.20,Shopping
+2026-04-15,Gas & Power Co,Gas utility bill,91.40,Utilities
+2026-04-16,Trader Joe's,Weekly groceries,69.10,Groceries
+2026-04-17,Starbucks,Latte and bagel,10.40,Dining
+2026-04-18,Uber,Ride downtown,21.60,Transportation
+2026-04-19,Netflix,Monthly subscription,15.99,Entertainment
+2026-04-20,Walgreens,Prescription refill,24.60,Healthcare
+2026-04-21,LA Fitness,Gym membership,39.99,Fitness
+2026-04-22,PetSmart,Dog treats,18.40,Pets
+2026-04-23,REI,Outdoor gear,84.20,Shopping
+2026-04-24,Southwest Airlines,Flight booking,320.00,Travel
+2026-04-25,Marriott Hotel,Hotel reservation,189.00,Travel
+2026-04-26,Allstate,Auto insurance premium,142.50,Insurance
+2026-04-27,Great Clips,Haircut,22.00,Personal Care
+2026-04-28,Barnes & Noble,Books and magazines,28.60,Education
+2026-04-29,Costco,Bulk groceries,155.40,Groceries
+2026-04-30,Panera Bread,Lunch combo,15.20,Dining
+2026-05-01,Shell,Gas station fuel,52.10,Transportation
+2026-05-02,Amazon,Electronics purchase,119.99,Shopping
+2026-05-03,PUD,Electric utility bill,133.40,Utilities
+2026-05-04,Trader Joe's,Weekly groceries,73.80,Groceries
+2026-05-05,Chipotle,Burrito bowl,13.40,Dining
+2026-05-06,Lyft,Ride home,18.20,Transportation
+2026-05-07,Disney+,Streaming subscription,9.99,Entertainment
+2026-05-08,Home Depot,Paint supplies,54.70,Home Services
+2026-05-09,City Water,Water utility bill,62.10,Utilities
+2026-05-10,Safeway,Weekly groceries,88.90,Groceries
+2026-05-11,Local Bistro,Dinner with spouse,92.40,Dining
+2026-05-12,Chevron,Gas refill,49.80,Transportation
+2026-05-13,Spotify,Music subscription,10.99,Entertainment
+2026-05-14,Amazon,Clothing purchase,42.30,Shopping
+2026-05-15,Gas & Power Co,Gas utility bill,90.80,Utilities
+2026-05-16,Trader Joe's,Weekly groceries,70.40,Groceries
+2026-05-17,Starbucks,Coffee and muffin,9.20,Dining
+2026-05-18,Uber,Ride to meeting,23.10,Transportation
+2026-05-19,Netflix,Monthly subscription,15.99,Entertainment
+2026-05-20,Target,Home essentials,58.90,Shopping
+2026-05-21,PUD,Electric utility bill,132.20,Utilities
+2026-05-22,Safeway,Groceries and snacks,79.40,Groceries
+2026-05-23,Chipotle,Burrito and drink,14.60,Dining
+2026-05-24,Shell,Gas station fuel,51.90,Transportation
+2026-05-25,Disney+,Streaming subscription,9.99,Entertainment
+2026-05-26,Amazon,Electronics accessory,19.99,Shopping
+2026-05-27,City Water,Water utility bill,61.90,Utilities
+2026-05-28,Trader Joe's,Weekly groceries,72.10,Groceries
+2026-05-29,Local Bistro,Dinner date,95.00,Dining
+2026-05-30,Lyft,Ride to event,23.80,Transportation
+2026-05-31,Spotify,Music subscription,10.99,Entertainment
+2026-06-01,Walgreens,Cold medicine,14.80,Healthcare
+2026-06-02,LA Fitness,Gym membership,39.99,Fitness
+2026-06-03,PetSmart,Cat litter,16.20,Pets
+2026-06-04,REI,Hiking gear,92.40,Shopping
+2026-06-05,Southwest Airlines,Flight booking,289.00,Travel
+2026-06-06,Marriott Hotel,Hotel stay,210.00,Travel
+2026-06-07,Allstate,Auto insurance premium,142.50,Insurance
+2026-06-08,Great Clips,Haircut,22.00,Personal Care
+2026-06-09,Barnes & Noble,Books and magazines,31.20,Education
+2026-06-10,Costco,Bulk groceries,158.40,Groceries
+2026-06-11,Panera Bread,Lunch combo,14.90,Dining
+2026-06-12,Shell,Gas station fuel,52.30,Transportation
+2026-06-13,Amazon,Electronics purchase,129.99,Shopping
+2026-06-14,PUD,Electric utility bill,134.10,Utilities
+2026-06-15,Trader Joe's,Weekly groceries,74.60,Groceries
+2026-06-16,Chipotle,Burrito bowl,13.20,Dining
+2026-06-17,Lyft,Ride home,18.40,Transportation
+2026-06-18,Disney+,Streaming subscription,9.99,Entertainment
+2026-06-19,Home Depot,Hardware items,49.80,Home Services
+2026-06-20,City Water,Water utility bill,62.40,Utilities
+2026-06-21,Safeway,Weekly groceries,90.20,Groceries
+2026-06-22,Local Bistro,Lunch with coworker,21.90,Dining
+2026-06-23,Chevron,Gas refill,50.40,Transportation
+2026-06-24,Spotify,Music subscription,10.99,Entertainment
+2026-06-25,Amazon,Clothing purchase,44.10,Shopping
+2026-06-26,Gas & Power Co,Gas utility bill,92.10,Utilities
+2026-06-27,Trader Joe's,Weekly groceries,71.80,Groceries
+2026-06-28,Starbucks,Coffee and bagel,9.80,Dining
+2026-06-29,Uber,Ride downtown,22.10,Transportation
+2026-06-30,Netflix,Monthly subscription,15.99,Entertainment
+2026-07-01,Target,Home essentials,57.40,Shopping
+2026-07-02,PUD,Electric utility bill,133.90,Utilities
+2026-07-03,Safeway,Groceries and snacks,80.10,Groceries
+2026-07-04,Chipotle,Lunch combo,14.20,Dining
+2026-07-05,Shell,Gas station fuel,52.80,Transportation
+2026-07-06,Disney+,Streaming subscription,9.99,Entertainment
+2026-07-07,Amazon,Electronics accessory,21.99,Shopping
+2026-07-08,City Water,Water utility bill,62.20,Utilities
+2026-07-09,Trader Joe's,Weekly groceries,73.40,Groceries
+2026-07-10,Local Bistro,Dinner date,96.20,Dining
+2026-07-11,Lyft,Ride to event,24.10,Transportation
+2026-07-12,Spotify,Music subscription,10.99,Entertainment
+2026-07-13,Walgreens,Prescription refill,26.40,Healthcare
+2026-07-14,LA Fitness,Gym membership,39.99,Fitness
+2026-07-15,PetSmart,Dog food,28.60,Pets
+2026-07-16,REI,Camping gear,112.40,Shopping
+2026-07-17,Southwest Airlines,Flight booking,310.00,Travel
+2026-07-18,Marriott Hotel,Hotel stay,198.00,Travel
+2026-07-19,Allstate,Auto insurance premium,142.50,Insurance
