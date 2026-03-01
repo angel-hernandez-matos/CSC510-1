@@ -1,6 +1,6 @@
 # File: PPModule8_main.py
 # Written by: Angel Hernandez
-# Description: Module 6 - Critical Thinking
+# Description: Module 8 - Portfolio Project
 #
 # Requirement(s):
 # Your final Portfolio Project will be a fully-functioning AI program built to solve a real-world problem of your
